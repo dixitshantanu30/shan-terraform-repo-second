@@ -1,2 +1,2 @@
-# shan-terraform-repo-second-manually changed
-My repo by terraform-second
+# shan-terraform-repo-second
+My repo by terraform-second-manually changed
